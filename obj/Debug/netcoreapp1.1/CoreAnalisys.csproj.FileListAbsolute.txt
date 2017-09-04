@@ -1,0 +1,9 @@
+C:\Dev\VS\Labs\Signals\Lab_1_01\CoreAnalisys\CoreAnalisys\bin\Debug\netcoreapp1.1\CoreAnalisys.deps.json
+C:\Dev\VS\Labs\Signals\Lab_1_01\CoreAnalisys\CoreAnalisys\bin\Debug\netcoreapp1.1\CoreAnalisys.runtimeconfig.json
+C:\Dev\VS\Labs\Signals\Lab_1_01\CoreAnalisys\CoreAnalisys\bin\Debug\netcoreapp1.1\CoreAnalisys.runtimeconfig.dev.json
+C:\Dev\VS\Labs\Signals\Lab_1_01\CoreAnalisys\CoreAnalisys\bin\Debug\netcoreapp1.1\CoreAnalisys.dll
+C:\Dev\VS\Labs\Signals\Lab_1_01\CoreAnalisys\CoreAnalisys\bin\Debug\netcoreapp1.1\CoreAnalisys.pdb
+C:\Dev\VS\Labs\Signals\Lab_1_01\CoreAnalisys\CoreAnalisys\obj\Debug\netcoreapp1.1\CoreAnalisys.csprojResolveAssemblyReference.cache
+C:\Dev\VS\Labs\Signals\Lab_1_01\CoreAnalisys\CoreAnalisys\obj\Debug\netcoreapp1.1\CoreAnalisys.AssemblyInfo.cs
+C:\Dev\VS\Labs\Signals\Lab_1_01\CoreAnalisys\CoreAnalisys\obj\Debug\netcoreapp1.1\CoreAnalisys.dll
+C:\Dev\VS\Labs\Signals\Lab_1_01\CoreAnalisys\CoreAnalisys\obj\Debug\netcoreapp1.1\CoreAnalisys.pdb
